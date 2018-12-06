@@ -1,2 +1,5 @@
-1.php 서버 켜시고
-2.브라우저 실행하세요
+---OVERVIEW---
+★ 프로젝트 파일 경로
+     : C:\Users\user\Documents\project
+★ 데이터베이스 파일 경로
+     :  C:\Bitnami\wampstack-7.1.24-1\mysql\data\
